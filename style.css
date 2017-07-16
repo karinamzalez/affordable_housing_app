@@ -12,9 +12,15 @@ body {
   position: relative;
 }
 
+img {
+  margin-top: 10px;
+}
+
 .main-section h1 {
   text-align: center;
   color: white;
+  margin-top: 0.7em;
+  margin-bottom: 0.7em;
   font-size: 70px;
 }
 
