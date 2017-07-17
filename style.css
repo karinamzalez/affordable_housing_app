@@ -82,3 +82,18 @@ p {
 .clear-bg h1, .clear-bg p, .clear-bg li {
   color: rgba(15, 113, 131, 0.77);
 }
+
+.logo {
+  padding: 5em;
+  margin-left: 32%;
+}
+
+@media (max-width: 1200px) {
+  .col-md-3 {
+    width: 50% !important;
+  }
+
+  .logo {
+    margin-left: 15%;
+  }
+}
